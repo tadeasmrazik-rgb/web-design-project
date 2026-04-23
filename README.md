@@ -1,6 +1,7 @@
 # Web Design Project 🚀
 
 Modern responsive website built for a client using Next.js.
+Built as a real client project focused on conversion and modern UX.
 
 ## 🌐 Live Demo
 https://web-webovky.vercel.app
