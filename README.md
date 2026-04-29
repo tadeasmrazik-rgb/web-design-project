@@ -24,4 +24,5 @@ This project focuses on building modern, high-converting websites with strong vi
 npm install  
 npm run dev
 
-<img width="1502" height="1430" alt="Snímek obrazovky 2026-04-23 v 16 47 28" src="https://github.com/user-attachments/assets/d7eccd0e-6f25-449f-a0c0-cb075a7b4980" />
+<img width="1527" height="1430" alt="Snímek obrazovky 2026-04-29 v 14 24 41" src="https://github.com/user-attachments/assets/a93d90f9-c738-4843-9ae0-62d0d720e305" />
+
